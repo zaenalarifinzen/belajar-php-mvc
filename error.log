@@ -1,0 +1,4 @@
+[2025-08-07T09:10:06.064178+07:00] DeveloperAnnur\Belajar\PHP\MVC\LevelTest.ERROR: This is error [] []
+[2025-08-07T09:10:06.065395+07:00] DeveloperAnnur\Belajar\PHP\MVC\LevelTest.CRITICAL: This is critical [] []
+[2025-08-07T09:10:06.065480+07:00] DeveloperAnnur\Belajar\PHP\MVC\LevelTest.ALERT: This is alert [] []
+[2025-08-07T09:10:06.065561+07:00] DeveloperAnnur\Belajar\PHP\MVC\LevelTest.EMERGENCY: This is emergency [] []
